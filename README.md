@@ -39,7 +39,7 @@ A modern, responsive calculator web app built with Streamlit, supporting both ba
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rahuldhiman509/full-featured-calculator-python.git
    cd full-featured-calculator-python
    ```
 
@@ -77,14 +77,13 @@ A modern, responsive calculator web app built with Streamlit, supporting both ba
 
 ```
 full-featured-calculator-python/
-├── calculator_web.py         # (Optional entry point)
-├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
 ├── src/
 │   ├── app.py                # Streamlit app UI & logic
 │   ├── calculator.py         # Calculator logic
 │   ├── memory.py             # Memory functions
 │   └── history.py            # History tracking
+├── README.md                 # Project documentation
+├── requirements.txt          # Python dependencies
 └── venv/                     # Virtual environment (optional)
 ```
 
@@ -100,4 +99,4 @@ full-featured-calculator-python/
 
 ## Contact
 
-For questions or feedback, contact [Your Name or Email].
+For questions or feedback, contact Rahul Dhiman [torahul12091@gmail.com].
